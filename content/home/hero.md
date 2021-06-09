@@ -1,8 +1,9 @@
 ---
 widget: hero
 headless: true
+active : false
 weight: 10
-title: Hugo Academic Starter
+title: Karim Mezhoud
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'

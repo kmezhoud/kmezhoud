@@ -31,7 +31,7 @@ feature:
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
-#  icon_pack = "emoji"
+#  icon_pack = "org-gc"
 #  name = "Emojiness"
 #  description = "100%"  
 
