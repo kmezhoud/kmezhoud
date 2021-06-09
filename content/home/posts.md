@@ -6,6 +6,9 @@ widget: pages
 # This file represents a page section.
 headless: true
 
+# desactivate posts widgets
+active : false
+
 # Order that this section appears on the page.
 weight: 60
 
