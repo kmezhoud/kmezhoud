@@ -20,7 +20,9 @@ education:
 email: "kmezhoud@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
+- Data Storage and design
+- Data Exploration and Analysis
+- Data Vizualisation
 - Computational Linguistics
 - Information Retrieval
 organizations:
@@ -54,4 +56,4 @@ I am Data Scientist and Associate Professor in Nuclear Science Center of Tunisia
 
 I started wrangling Cancer genomics data and developing tools for Analysis, visualization and prediction. Today, I extended my skills to multiple data type for business solution, nuclear physic or Medical image processing. I am familiar with Python and the most known machine learning algorithms. Mainly I use R for EDA and Python for Prediction.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_compressed.pdf" "newtab" >}}resumé{{< /staticref >}}.
