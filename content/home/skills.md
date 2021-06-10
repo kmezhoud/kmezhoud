@@ -43,29 +43,31 @@ feature:
   icon_pack: custom
   name: Dashboards
 - description:
-  icon: tidyverse
-  icon_pack: custom 
-  name: Wrangling
-- description:
   icon: docker
   icon_pack: fab
   name: Dockerize App
+- description:
+  icon: linux
+  icon_pack: fab
+  name: GNU/Linux
 - description:
   icon: agile
   icon_pack: custom
   name: Agility
 - description:
-  icon: dbplyr
-  icon_pack: custom
-  name: Database
+  icon: tidyverse
+  icon_pack: custom 
+  name: Wrangling
 - description:
   icon: sparklyr
   icon_pack: custom
   name: Cluster
 - description:
-  icon: linux
-  icon_pack: fab
-  name: GNU/Linux
+  icon: dbplyr
+  icon_pack: custom
+  name: Database
+
+  
  
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
