@@ -5,7 +5,7 @@ active : true
 weight: 10
 title: Portofolio
 
-<!--hero_media: hero-academic.png-->
+hero_media: under_construction.png
 design:
   background:
     image: cereal.jpg
