@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 active : true
-weight: 12
-title: Work Style
+weight: 5
+title: Workstyle
 
 <!--hero_media: under_construction.png-->
     
