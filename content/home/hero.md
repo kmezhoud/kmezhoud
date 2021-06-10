@@ -1,10 +1,11 @@
 ---
 widget: hero
 headless: true
-active : false
+active : true
 weight: 10
 title: Karim Mezhoud
-hero_media: hero-academic.png
+
+<!--hero_media: hero-academic.png-->
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/templates/
@@ -16,11 +17,16 @@ cta_note:
     <a class="js-github-release" href="https://wowchemy.com/updates/" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy site builder for Hugo</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
 design:
   background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
-    text_color_light: true
+    image: cereal.jpg
+    image_darken: 1.0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: false
 advanced:
   css_class: fullscreen
+  
+
 ---
 
 **The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
