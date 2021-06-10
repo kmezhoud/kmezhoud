@@ -58,7 +58,15 @@ feature:
   icon: dbplyr
   icon_pack: custom
   name: Database
-  
+- description:
+  icon: sparklyr
+  icon_pack: custom
+  name: Cluster
+- description:
+  icon: linux
+  icon_pack: fab
+  name: GNU/Linux
+ 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "org-gc"
