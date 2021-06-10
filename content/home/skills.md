@@ -6,6 +6,8 @@ widget: featurette
 # This file represents a page section.
 headless: true
 
+active: true
+
 # Order that this section appears on the page.
 weight: 30
 
@@ -16,19 +18,47 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description:
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name: Exploration 
+- description:
+  icon: python
+  icon_pack: fab
+  name: Training Models
+- description:
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-
+  name: Visualization
+- description:
+  icon: github
+  icon_pack: fab
+  name: Sync Code
+- description:
+  icon: markdown
+  icon_pack: fab
+  name: Auto-reporting
+- description:
+  icon: shiny
+  icon_pack: custom
+  name: Dashboards
+- description:
+  icon: tidyverse
+  icon_pack: custom 
+  name: Wrangling
+- description:
+  icon: docker
+  icon_pack: fab
+  name: Dockerize App
+- description:
+  icon: agile
+  icon_pack: custom
+  name: Agility
+- description:
+  icon: dbplyr
+  icon_pack: custom
+  name: Database
+  
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "org-gc"
