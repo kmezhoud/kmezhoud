@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -12,22 +12,22 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Hugo Academic Theme Demo
+title: 
 subtitle:
 
 design:
   columns: "1"
   background:
-    image: open-book.jpg
+    image: hero.png
     image_darken: 1.0
     image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["20px", "20px", "20px", "20px"]
 ---
-
+<!--
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
 [Explore similar templates](https://wowchemy.com/templates/)
@@ -35,9 +35,10 @@ Welcome to the demo of the **academic resumé template** for Wowchemy, the Websi
 **Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
 
 **[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
+-->
 
 {{% callout note %}}
-This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
+`Explorers` tend to disregard existing and well applied methods and formulate new, different, better ideas. They are quick thinkers due to having extremely flexible minds, shifting among ideas and solution. 
 
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+Doing that, `Explorers` could be genuinely enthusiastic and energetic. In general, they are open to change, persistent, and they have bold persuasive power.
 {{% /callout %}}
