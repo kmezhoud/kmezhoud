@@ -4,12 +4,13 @@ external_link: ""
 image:
   caption: Photo by [kaggle](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
   focal_point: Smart
-summary: Restaurants reservation and costumers behaviors.
+summary: Customers reservation prediction
 tags:
 - eda
 - r
 - forcast
-title: Restaurant Activities Forecasting
+- business
+title: Restaurant Forecasting
 url_code: "https://kmezhoud.github.io/learn_by_example/RestaurantEDA/RestaurantEDA.html"
 url_pdf: ""
 url_slides: ""
