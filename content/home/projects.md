@@ -31,12 +31,6 @@ content:
     tag: '*'
   - name: EDA
     tag: eda
-  - name: IA
-    tag: IA
-  - name: Dashboard
-    tag: dashboard
-  - name: Viz
-    tag: Viz
   - name: R
     tag: r
   - name: Python
