@@ -1,5 +1,5 @@
 ---
-date: "2019-10-31T00:00:00Z"
+date: "2019-11-10T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by [kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)

@@ -1,5 +1,5 @@
 ---
-date: "2019-02-19T00:00:00Z"
+date: "2020-01-22T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by [Zindi](https://zindi.africa/competitions/tic-heap-cirta-particle-classification-challenge)
