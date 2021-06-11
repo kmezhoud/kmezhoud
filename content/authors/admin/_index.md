@@ -52,7 +52,7 @@ superuser: true
 title: Karim Mezhoud
 ---
 
-I am Data Scientist and Associate Professor in Nuclear Science Center of Tunisia - Tunis. I am teaching Bioinformatics and Biostatistics to Master degrees in Biomedical. The courses and based on GNU/Linux environment and R programing language. 
+I am Data Scientist and Associate Professor in Nuclear Science Center of Tunisia - Tunis. I am teaching Bioinformatics and Biostatistics to Master degrees in Biomedical field. The courses are based on GNU/Linux environment and R programing language. 
 
 I started wrangling Cancer genomics data and developing tools for Analysis, visualization and prediction. Today, I extended my skills to multiple data type for business solution, nuclear physic or Medical image processing. I am familiar with Python and the most known machine learning algorithms. Mainly I use R for EDA and Python for Prediction.
 
