@@ -47,6 +47,8 @@ content:
     tag: image
   - name: Forcast
     tag: forcast
+  - name: Business
+    tag: business
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
