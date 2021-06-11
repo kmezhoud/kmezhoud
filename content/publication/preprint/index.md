@@ -19,7 +19,7 @@ links:
 - name: Custom Link
   url: http://example.org
 projects:
-- internal-project
+- <<!--internal-project-->
 publication: ""
 publication_short: ""
 publication_types:

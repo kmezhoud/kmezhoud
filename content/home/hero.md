@@ -6,7 +6,8 @@ weight: 10
 font_size: 9
 title: Workstyle
 
-<!--hero_media: under_construction.png-->
+hero_media: under_construction.png
+
 design:
   background:
     image: hero.png

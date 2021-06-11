@@ -6,7 +6,7 @@ widget: portfolio
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 65
@@ -29,10 +29,24 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: EDA
+    tag: eda
+  - name: IA
+    tag: IA
+  - name: Dashboard
+    tag: dashboard
+  - name: Viz
+    tag: Viz
+  - name: R
+    tag: r
+  - name: Python
+    tag: python
+  - name: Pharma
+    tag: pharma
+  - name: Image
+    tag: image
+  - name: Forcast
+    tag: forcast
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
