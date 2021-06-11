@@ -2,7 +2,7 @@
 date: "2019-02-19T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by [Zindi](https://zindi.africa/competitions/tic-heap-cirta-particle-classification-challenge))
+  caption: Photo by [Zindi](https://zindi.africa/competitions/tic-heap-cirta-particle-classification-challenge)
   focal_point: Smart
 summary: Python, arrays and xgboost
 tags:
