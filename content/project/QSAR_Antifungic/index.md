@@ -6,7 +6,6 @@ image:
   focal_point: Smart
 summary: Binary and Regression Classification (RF and XGB)
 tags:
-- eda
 - python
 - pharma
 title: QSAR Antifungal quantification
