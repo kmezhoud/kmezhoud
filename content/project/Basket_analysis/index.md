@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Generate a python script that lists all the repeats equal or longer than 9 bases in double strand dna sequences
+summary: EDA of Market baskets.
 tags:
 - r
 - eda
