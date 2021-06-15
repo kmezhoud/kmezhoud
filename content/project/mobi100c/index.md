@@ -8,7 +8,8 @@ summary: Business Solution for managing Orders, Stocks and Documents.
 tags:
 - r
 - mobile
-- dashboard
+- business
+
 
 title: Mobi100c- A mobile App for Business Solution
 url_code: ""
