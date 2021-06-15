@@ -18,11 +18,8 @@ content:
   
   # Email form provider
   form:
-    provider: formspree
-    formspree:
-      id: netlify_kmezhoud_email
+    provider: netlify
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: true
   
 design:
