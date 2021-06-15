@@ -7,6 +7,7 @@ image:
 summary: Generate a python script that lists all the repeats equal or longer than 9 bases in double strand dna sequences
 tags:
 - python
+- pharma
 title:  Lists all the repeats equal or longer than 9 bases
 url_code: "https://kmezhoud.github.io/Yubsis/Yubsis.html"
 url_pdf: ""
