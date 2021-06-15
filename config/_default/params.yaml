@@ -18,6 +18,11 @@ org_name: ''
 description: ''
 twitter: ''
 
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: true
 # Contact (edit or remove options as required)
 
 #email: test@example.org
