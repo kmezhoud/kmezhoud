@@ -45,6 +45,8 @@ content:
     tag: business
   - name: Dashboard
     tag: dashboard
+  - name: Mobile
+    tag: mobile
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
