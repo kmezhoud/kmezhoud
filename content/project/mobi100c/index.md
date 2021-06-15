@@ -1,6 +1,6 @@
 ---
 date: "2021-04-19T00:00:00Z"
-external_link: "https://kmezhoud.shinyapps.io/kmandi/"
+external_link: ""
 image:
   caption:
   focal_point: Smart
@@ -15,7 +15,7 @@ title: Mobi100c- A mobile App for Business Solution
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://kmezhoud.shinyapps.io/kmandi/"
 ---
 
 `Mobi100c` is a web/mobile app with multiple login profiles.    
