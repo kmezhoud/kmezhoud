@@ -11,7 +11,7 @@ tags:
 - dashboard
 
 title:  COVID19 Tracker Dashboard
-url_code: ""
+url_code: "https://gitlab.com/kmezhoud/covid19/-/tree/master/COVID19"
 url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=3s4FfjMkLWQ&t=605s"

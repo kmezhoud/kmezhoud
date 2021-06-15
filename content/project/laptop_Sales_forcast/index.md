@@ -11,7 +11,7 @@ tags:
 - business
 
 title: Laptop Sales Dashboard
-url_code: ""
+url_code: "https://gitlab.com/kmezhoud/dashboards/-/tree/master/laptopSales"
 url_pdf: ""
 url_slides: ""
 url_video: ""
