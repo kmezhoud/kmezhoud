@@ -21,9 +21,9 @@ publication_types:
 publishDate: "2016-09-01T00:00:00Z"
 url_code: "https://github.com/kmezhoud/bioCancer"
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://www.bioconductor.org/packages/release/bioc/manuals/bioCancer/man/bioCancer.pdf"
 url_poster: ""
-url_project: "https://bioconductor.org/packages/release/bioc/html/bioCancer.html"
+url_project: "https://www.bioconductor.org/packages/release/bioc/vignettes/bioCancer/inst/doc/bioCancer.html"
 url_slides: ""
 url_source: ""
 url_video: ""
@@ -31,8 +31,11 @@ url_video: ""
 
 # bioCancer - Interactive Multi-OMICS Cancers Data Visualization and Analysis
 [![releaseVersion](https://img.shields.io/badge/release%20version-1.6.00-green.svg?style=flat)](https://bioconductor.org/packages/bioCancer)[![develVersion](https://img.shields.io/badge/devel%20version-1.7.04-green.svg?style=flat)](https://github.com/bioCancer)[![Bioc](http://www.bioconductor.org/shields/years-in-bioc/bioCancer.svg)](https://www.bioconductor.org/packages/devel/bioc/html/bioCancer.html#since)[![total](https://img.shields.io/badge/downloads-1759/total-blue.svg?style=flat)](https://bioconductor.org/packages/stats/bioc/bioCancer)
+[![rank](https://img.shields.io/badge/rank%20/total-blue.svg?style=flat)](https://bioconductor.org/packages/stats/bioc/bioCancer)
 <!--[![Coverage Status](https://img.shields.io/coveralls/kmezhoud/bioCancer.svg)](https://coveralls.io/r/kmezhoud/bioCancer?branch=master) -->
+`r badge_bioc_download("bioCancer, "total", "blue", "total")`
 
+http://cranlogs.r-pkg.org/badges/stringr
 
 [bioCancer](
 http://kmezhoud.github.io/bioCancer/
