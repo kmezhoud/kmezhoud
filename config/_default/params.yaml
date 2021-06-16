@@ -82,6 +82,8 @@ highlight_languages:
   - bash
   - regex
   - markdown
+  - mobile
+  - pharma
 math: false
 diagram: false
 privacy_pack: false
