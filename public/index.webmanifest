@@ -1,0 +1,18 @@
+{
+  "name": "Karim Mezhoud",
+  "short_name": "Karim Mezhoud",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hu18783473f26a8b24eb85a736d535d367_27111_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu18783473f26a8b24eb85a736d535d367_27111_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

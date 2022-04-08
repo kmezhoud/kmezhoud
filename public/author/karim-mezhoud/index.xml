@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karim Mezhoud</title>
+    <link>https://kmezhoud.netlify.app/author/karim-mezhoud/</link>
+      <atom:link href="https://kmezhoud.netlify.app/author/karim-mezhoud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karim Mezhoud</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Karim Mezhoud</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kmezhoud.netlify.app/author/karim-mezhoud/avatar_hu18783473f26a8b24eb85a736d535d367_27111_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Karim Mezhoud</title>
+      <link>https://kmezhoud.netlify.app/author/karim-mezhoud/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://kmezhoud.netlify.app/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://kmezhoud.netlify.app/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/post/jupyter/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bioCancer- A Shiny App to visualize and analyse interactively Multi-Assays of Cancer Genomic Data.</title>
+      <link>https://kmezhoud.netlify.app/packages/biocancer/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/packages/biocancer/</guid>
+      <description>&lt;h1 id=&#34;biocancer---interactive-multi-omics-cancers-data-visualization-and-analysis&#34;&gt;bioCancer - Interactive Multi-OMICS Cancers Data Visualization and Analysis&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://bioconductor.org/packages/bioCancer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/release%20version-1.6.00-green.svg?style=flat&#34; alt=&#34;releaseVersion&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://github.com/bioCancer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/devel%20version-1.7.04-green.svg?style=flat&#34; alt=&#34;develVersion&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.bioconductor.org/packages/devel/bioc/html/bioCancer.html#since&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.bioconductor.org/shields/years-in-bioc/bioCancer.svg&#34; alt=&#34;Bioc&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://bioconductor.org/packages/stats/bioc/bioCancer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/downloads-1759/total-blue.svg?style=flat&#34; alt=&#34;total&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://bioconductor.org/packages/stats/bioc/bioCancer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/rank%20/total-blue.svg?style=flat&#34; alt=&#34;rank&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--[![Coverage Status](https://img.shields.io/coveralls/kmezhoud/bioCancer.svg)](https://coveralls.io/r/kmezhoud/bioCancer?branch=master) --&gt;
+&lt;p&gt;&lt;code&gt;r badge_bioc_download(&amp;quot;bioCancer, &amp;quot;total&amp;quot;, &amp;quot;blue&amp;quot;, &amp;quot;total&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://cranlogs.r-pkg.org/badges/stringr&#34;&gt;http://cranlogs.r-pkg.org/badges/stringr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://kmezhoud.github.io/bioCancer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bioCancer&lt;/a&gt; is a browser-based interface for Cancer Genomics Data analysis and visualization developped by &lt;a href=&#34;http://www.r-project.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt;, and based on the &lt;a href=&#34;http://www.rstudio.com/shiny/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shiny&lt;/a&gt; package.&lt;/p&gt;
+&lt;h4 id=&#34;interactivities&#34;&gt;Interactivities&lt;/h4&gt;
+&lt;p&gt;bioCancer is listening user setting. Results are updated immediately when inputs are changed (i.e., no separate dialog boxes).&lt;/p&gt;
+&lt;h4 id=&#34;context&#34;&gt;Context&lt;/h4&gt;
+&lt;p&gt;bioCancer focuses on Cancer Genomics data visualisation and Genes Classifications.&lt;/p&gt;
+&lt;h2 id=&#34;circomics-pull-user-genetic-profiles-with-existing-cancer-studies&#34;&gt;Circomics: Pull User genetic profiles with existing Cancer studies&lt;/h2&gt;
+&lt;img src=&#34;Circomics_demo.gif&#34;&gt;
+&lt;!--
+It is inspired from [radiant](https://github.com/vnijs/radiant) developed by &lt;a href=&#34;http://rady.ucsd.edu/faculty/directory/nijs/&#34; target=&#34;\_blank&#34;&gt;Dr. Vincent Nijs&lt;/a&gt;. 
+--&gt;
+&lt;h2 id=&#34;preprocessing-and-plotting&#34;&gt;Preprocessing and Plotting&lt;/h2&gt;
+&lt;img src=&#34;S3Video2.gif&#34;&gt;
+&lt;h2 id=&#34;genes-classification-and-biological-terms-clustering&#34;&gt;Genes Classification and Biological terms Clustering&lt;/h2&gt;
+&lt;img src=&#34;S4Video3.gif&#34;&gt;
+&lt;h2 id=&#34;network-modeling-example&#34;&gt;Network modeling example&lt;/h2&gt;
+&lt;!--
+![Network modeling](./inst/extradata/imgs/demoReactome.gif)
+--&gt;
+&lt;img src=&#34;S5Video4.gif&#34;&gt;
+&lt;!--
+## Key features
+
+- Explore: Quickly and easily summarize, visualize, and analyze your data
+- Cross-platform: It runs in a browser on Windows, Mac, and Linux
+- Reproducible: Recreate results and share work with others as a state file or an [Rmarkdown](http://rmarkdown.rstudio.com/) report
+- Programming: Integrate bioCancer&#39;s analysis functions into your own R-code
+- Context: Data and examples focus on business applications
+
+&lt;iframe width=&#34;640&#34; height=&#34;375&#34; src=&#34;https://www.youtube.com/embed/ioHopyfD2f0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+--&gt;
+&lt;!--
+#### Reproducible
+
+Simply saving output is not enough. You need the ability to recreate results for the same data and/or when new data become available. Moreover, others may want to review your analysis and results. Save and load the state of the application to continue your work at a later time or on another computer. Share state files with others and create reproducible reports using [Rmarkdown](http://rmarkdown.rstudio.com/). See also the section on `Saving and loading state` below
+--&gt;
+&lt;!--
+#### Programming
+
+Although bioCancer&#39;s web-interface can Processing quite a few data and analysis tasks, at times you may prefer to write your own code. bioCancer provides a bridge to programming in R(studio) by exporting the functions used for analysis. For more information about programming, see Radiant [programming](http://vnijs.github.io/radiant/programming.html) page on the documentation site.
+--&gt;
+&lt;h2 id=&#34;how-to-install-biocancer&#34;&gt;How to install bioCancer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Required: &lt;a href=&#34;http://cran.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; version 3.2 or later&lt;/li&gt;
+&lt;li&gt;Required: A modern browser (e.g., &lt;a href=&#34;https://www.google.com/intl/en/chrome/browser/desktop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chrome&lt;/a&gt; or Safari). Internet Explorer (version 11 or higher) should work as well&lt;/li&gt;
+&lt;li&gt;Recommended: &lt;a href=&#34;http://www.rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rstudio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;bioCancer courant release:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt; source(&amp;quot;https://bioconductor.org/biocLite.R&amp;quot;)
+ biocLite(&amp;quot;bioCancer&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;bioCancer is under development:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt; devtools::install_github(&amp;quot;kmezhoud/bioCancer&amp;quot;)
+ library(&amp;quot;bioCancer&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;When bioCancer starts you will see a table of available Cancer Studies.  To close the application click on &lt;code&gt;Quit&lt;/code&gt; in the Navigation bar and then click the &lt;code&gt;Quit&lt;/code&gt; button on the left of the screen. The bioCancer process will stop and the browser window will close (or gray-out).&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;Documentation and tutorials are available in the bioCancer web interface (the &lt;code&gt;?&lt;/code&gt; icons and the &lt;code&gt;Help&lt;/code&gt; menu).&lt;/p&gt;
+&lt;!--
+## Saving and loading state from bioCancer
+To save your analyses save the state of the app to a file by clicking on the &lt;i title=&#39;Save&#39; class=&#39;fa fa-save&#39;&gt;&lt;/i&gt; icon in the navbar and then on `Save state` (see also the `Data &gt; Processing &gt; Manage` tab). You can open this state file at a later time or on another computer to continue where you left off. You can also share the file with others that may want to replicate your analyses. As an example, load the state_file [`example.rda`](https://github.com/vnijs/radiant/blob/master/inst/examples/RadiantState.rda?raw=true) through the Data &gt; Manage tab. Go to `Processing &gt; View`, `Processing &gt; Visualize` to see some of the settings. There is also a report in `R &gt; Report` that was created using the bioCancer interface. The html file [`ExampleState.html`](https://github.com/vnijs/radiant/blob/master/inst/examples/RadiantState.html?raw=true) contains the output.
+
+
+Loading and saving state also works with Rstudio. If you start bioCancer from Rstudio and use &lt;i title=&#39;Power off&#39; class=&#39;fa fa-power-off&#39;&gt;&lt;/i&gt; &gt; `Stop` to stop the app, lists called `r_data` and `r_state` will be put into Rstudio&#39;s global workspace. If you start bioCancer again using `bioCancer()` it will use these lists to restore state. This can be convenient if you want to make changes to a data file in Rstudio and load it back into bioCancer. Also, if you load a state file directly into Rstudio it will be used when you start bioCancer to recreate a previous state.
+
+```r
+numericInput(&#34;sm_comp_value&#34;, &#34;Comparison value:&#34;, state_init(&#39;sm_comp_value&#39;,sm_args$comp_value))
+```
+--&gt;
+&lt;h2 id=&#34;acknowledgment&#34;&gt;Acknowledgment&lt;/h2&gt;
+&lt;p&gt;bioCancer is a collaborative work . Processing panel is adapted from &lt;a href=&#34;https://github.com/vnijs/radiant&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;radiant&lt;/a&gt;. I would like to thank &lt;a href=&#34;http://rady.ucsd.edu/faculty/directory/nijs/&#34; target=&#34;\_blank&#34;&gt; Dr. Vincent Nijs&lt;/a&gt; for sharing his work for R community.&lt;/p&gt;
+&lt;!--
+## License
+
+bioCancer is licensed under the &lt;a href=&#34;http://www.tldrlegal.com/l/AGPL3&#34; target=&#34;\_blank&#34;&gt;AGPLv3&lt;/a&gt;. The documentation and videos on this site and the bioCancer help files are licensed under the creative commons attribution, non-commercial, share-alike license &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34; target=&#34;_blank&#34;&gt;CC-NC-SA&lt;/a&gt;.
+
+As a summary, the AGPLv3 license requires, attribution, including copyright and license information in copies of the software, stating changes if the code is modified, and disclosure of all source code.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>canceR - A Graphical User Interface for accessing and modeling the Cancer Genomics Data of MSKCC.</title>
+      <link>https://kmezhoud.netlify.app/packages/cancer/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/packages/cancer/</guid>
+      <description>&lt;h1 id=&#34;a-graphical-user-interface-for-accessing-and-modeling-the-cancer-genomics-data-of-mskcc&#34;&gt;A Graphical User Interface for accessing and modeling the Cancer Genomics Data of MSKCC.&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://bioconductor.org/checkResults/devel/bioc-LATEST/canceR/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.bioconductor.org/shields/build/devel/bioc/canceR.svg?label=bioC&#34; alt=&#34;BuildStatus&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://travis-ci.org/kmezhoud/canceR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://travis-ci.org/kmezhoud/canceR.svg?branch=master&#34; alt=&#34;Travis-CI Build Status&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://bioconductor.org/packages/canceR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/release%20version-1.6.00-green.svg?style=flat&#34; alt=&#34;releaseVersion&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/canceR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/devel%20version-1.7.04-green.svg?style=flat&#34; alt=&#34;develVersion&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.bioconductor.org/packages/devel/bioc/html/canceR.html#since&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.bioconductor.org/shields/years-in-bioc/canceR.svg&#34; alt=&#34;Bioc&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://bioconductor.org/packages/stats/bioc/canceR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/downloads-1759/total-blue.svg?style=flat&#34; alt=&#34;total&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;Circos.png&#34;&gt;
+&lt;p&gt;Circular layout is an interesting way to integrate multi-omics heterogeneous  and big data of cancer disease in the same plot. The goal is to make easy the interpretation and the exploring of the relationships between cancers, genes or dimensions.
+There are two R packages (RCircos and Circlize) available for Circular layout but its use remain laborious and needs computational skills.
+CanceR package implements &amp;ldquo;getCircos&amp;rdquo; function to facilitate the visualization of cancer disease using Circos style. User needs only to select cancers and check which dimensions will be plotted.&lt;/p&gt;
+&lt;p&gt;User can select a simple gene list from files or examples or can focus on gene list from gene sets selected from MSigDB.
+In the following case I  focus my exploring to two gene lists corresponding to gene set involved in DNA repair and Response to oxidative stress. canceR package allows user to select any gene sets from MSigDB without gene duplication.&lt;/p&gt;
+&lt;p&gt;I selected mRNA (0.3 threshold), CNA (0.85), Met HM450 (0.3), Mutation (Frequency 101). Only genes with significant rates are plotted with corresponding colors. For example Gold for mutation, Orange (Methylation), Green (CNA), red (mRNA expression).&lt;/p&gt;
+&lt;p&gt;I selected 5 cancers represented with 5 sectors. In the same sector there are 7 tracks (layouts) corresponding respectively (out : in) to: Gene List, Gene Sets, mRNA, CNA, Methylation, Mutation&lt;/p&gt;
+&lt;img src=&#34;dialogCircos.png&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>Radiobiology worker risk assessment using stress indicators and proteomics</title>
+      <link>https://kmezhoud.netlify.app/publication/ijlr/</link>
+      <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/publication/ijlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://kmezhoud.netlify.app/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/publication/conference-paper/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graphical Identification of Cancer-Associated Gene Subnetworks Based on Small Proteomics Data Sets</title>
+      <link>https://kmezhoud.netlify.app/publication/omics/</link>
+      <pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/publication/omics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

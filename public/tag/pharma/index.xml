@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pharma | Karim Mezhoud</title>
+    <link>https://kmezhoud.netlify.app/tag/pharma/</link>
+      <atom:link href="https://kmezhoud.netlify.app/tag/pharma/index.xml" rel="self" type="application/rss+xml" />
+    <description>pharma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Karim Mezhoud</copyright><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kmezhoud.netlify.app/media/icon_hu18783473f26a8b24eb85a736d535d367_27111_512x512_fill_lanczos_center_2.png</url>
+      <title>pharma</title>
+      <link>https://kmezhoud.netlify.app/tag/pharma/</link>
+    </image>
+    
+    <item>
+      <title>Lists all the repeats equal or longer than 9 bases</title>
+      <link>https://kmezhoud.netlify.app/project/dna_repeats/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/dna_repeats/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Find all repeat motifs of DNA that have more or equal to 9 bases. Take Care about Overlapping&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are 4 conventional bases: A,T,C,G. The script must work with upper and lower cases.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The DNA is a double strand helix. If we look the repeats in one strand, automatically, we can deduce repeats in the second strand.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The input of the script is a simple DNA sequence that can reach 1.000,000 bp.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The output is a list of motifs with their lengths, sorted from longest to shortest.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QSAR Antifungal quantification</title>
+      <link>https://kmezhoud.netlify.app/project/qsar_antifungic/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/qsar_antifungic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID19 Tracker Dashboard</title>
+      <link>https://kmezhoud.netlify.app/project/covid19/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/covid19/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mapping of confirmed and deceased cases with a daily summary&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visualization plots of multiple features used in epidemiology: differential trend, growth curve, speed of spread, prediction of confirmed cases and deaths for the next 10 days, R0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

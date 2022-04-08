@@ -84,6 +84,7 @@ highlight_languages:
   - markdown
   - mobile
   - pharma
+  - Shiny
 math: false
 diagram: false
 privacy_pack: false

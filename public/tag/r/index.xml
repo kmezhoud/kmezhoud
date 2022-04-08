@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r | Karim Mezhoud</title>
+    <link>https://kmezhoud.netlify.app/tag/r/</link>
+      <atom:link href="https://kmezhoud.netlify.app/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>r</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Karim Mezhoud</copyright><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kmezhoud.netlify.app/media/icon_hu18783473f26a8b24eb85a736d535d367_27111_512x512_fill_lanczos_center_2.png</url>
+      <title>r</title>
+      <link>https://kmezhoud.netlify.app/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>Mobi100c- A mobile App for Business Solution</title>
+      <link>https://kmezhoud.netlify.app/project/mobi100c/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/mobi100c/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Mobi100c&lt;/code&gt; is a web/mobile app with multiple login profiles. &lt;br&gt;
+The Customer login can browse items by categories, and order selected articles. The app displays the orders history and corresponding status (pending, shipping, or shipped).
+The office login displays in editable table the list of sold items and its information including available stock.
+The office can add easily update stock, add, or remove items.
+The app is build to connect to SQLite, MySQL and MMSQL databases.&lt;/p&gt;
+&lt;h2 id=&#34;browse-the-store-with-customer-login&#34;&gt;Browse the Store with Customer login&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;store.png&#34; alt=&#34;store&#34; align=&#34;right&#34; width=&#34;450&#34; height=&#34;550&#34; style=&#34;padding: 0 0 10px 10px;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Steps to follow:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Select Categories&lt;/li&gt;
+&lt;li&gt;Scroll items and check ones for ordering&lt;/li&gt;
+&lt;li&gt;Specify the quantity of items&lt;/li&gt;
+&lt;li&gt;Display the Total of the order&lt;/li&gt;
+&lt;li&gt;Checkout and Confirm order.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;margin-bottom:350px;&#34;&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;stock-management-with-office-login&#34;&gt;Stock management with office login&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;office.png&#34; alt=&#34;store&#34; align=&#34;right&#34; width=&#34;450&#34; height=&#34;550&#34; style=&#34;padding: 0 0 10px 10px;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Steps to follow:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Select row from table to edit/copy/delete or add new one&lt;/li&gt;
+&lt;li&gt;Confirm order and send to customers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;margin-bottom:400px;&#34;&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;send-email-to-inform-customeroffice&#34;&gt;Send email to inform Customer/office&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;email_page.png&#34; alt=&#34;store&#34; align=&#34;right&#34; width=&#34;450&#34; height=&#34;550&#34; style=&#34;padding: 0 0 10px 10px;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Steps to follow:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;build purchase order in wanted format (pdf, docx, html)&lt;/li&gt;
+&lt;li&gt;fill email address, Subject, and the body text of the email&lt;/li&gt;
+&lt;li&gt;attach document&lt;/li&gt;
+&lt;li&gt;Send email&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A  Barcode reader for shiny mobile App</title>
+      <link>https://kmezhoud.netlify.app/project/barcode_reader_shinymobile/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/barcode_reader_shinymobile/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A Wrapper for QuaggaJS library to shiny&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Wrapper for ZXing JS library to shiny&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID19 Tracker Dashboard</title>
+      <link>https://kmezhoud.netlify.app/project/covid19/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/covid19/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mapping of confirmed and deceased cases with a daily summary&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visualization plots of multiple features used in epidemiology: differential trend, growth curve, speed of spread, prediction of confirmed cases and deaths for the next 10 days, R0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flood Prediction</title>
+      <link>https://kmezhoud.netlify.app/project/flood_in_malawi/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/flood_in_malawi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predict Survival Time</title>
+      <link>https://kmezhoud.netlify.app/project/survival_lung_cancer/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/survival_lung_cancer/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Images, Radiomics and Clinical data Exploration.&lt;/li&gt;
+&lt;li&gt;xgboost modeling with Masks slides&lt;/li&gt;
+&lt;li&gt;xgboost modeling with Masks + Features (Radiomics &amp;amp; Clinical data)&lt;/li&gt;
+&lt;li&gt;RF Survival Model (Ranger package) and GBM with Features&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predict Survival Time</title>
+      <link>https://kmezhoud.netlify.app/project/survival_lung_cancer2/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/survival_lung_cancer2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Images, Radiomics and Clinical data Exploration.&lt;/li&gt;
+&lt;li&gt;xgboost modeling with Masks slides&lt;/li&gt;
+&lt;li&gt;xgboost modeling with Masks + Features (Radiomics &amp;amp; Clinical data)&lt;/li&gt;
+&lt;li&gt;RF Survival Model (Ranger package) and GBM with Features&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Particles Collision</title>
+      <link>https://kmezhoud.netlify.app/project/particle_collision/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/particle_collision/</guid>
+      <description>&lt;p&gt;This &lt;a href=&#34;https://zindi.africa/competitions/tic-heap-cirta-particle-classification-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;challenge&lt;/a&gt; is part of an effort to explore the use of machine learning to assist high energy physicists in discovering and characterizing new particles.  Particles are the tiny constituents of matter generated in a collision between proton bunches. Physicists at CERN study particles using particle accelerators.
+The goal of this challenge is to build a machine learning model to read images of particles and identify their type.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Games Attempts</title>
+      <link>https://kmezhoud.netlify.app/project/number_attempts/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/number_attempts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HT Future Sales</title>
+      <link>https://kmezhoud.netlify.app/project/future_sales/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/future_sales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laptop Sales Dashboard</title>
+      <link>https://kmezhoud.netlify.app/project/laptop_sales_forcast/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/laptop_sales_forcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fraud Detection</title>
+      <link>https://kmezhoud.netlify.app/project/fraud_detection/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/fraud_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basket Analysis</title>
+      <link>https://kmezhoud.netlify.app/project/instacard_basketeda/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/instacard_basketeda/</guid>
+      <description>&lt;p&gt;The dataset for this competition is a relational set of files describing customers&#39; orders over time. &lt;strong&gt;The goal of the competition is to predict which products will be in a user&amp;rsquo;s next order&lt;/strong&gt;. The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users. For each user, we provide between 4 and 100 of their orders, with the sequence of products purchased in each order. We also provide the week and hour of day the order was placed, and a relative measure of time between orders. For more information, see the &lt;a href=&#34;https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt; accompanying its public release.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Forecasting</title>
+      <link>https://kmezhoud.netlify.app/project/restauranteda/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/restauranteda/</guid>
+      <description>&lt;p&gt;This Case of study explores and analyses data sets of restaurants reservations and activities for two distant touristic area in Japan. The data set covers information of two years.
+The goal of this study is to predict restaurant activities depending of dataset history. The challenge is to decipher knowledge about the behaviors of the visitors in two distant areas depending in multiple parameter like weekend, holidays, whether, gender, kind of dishes and times.
+The data set comes from kaggle competition named &lt;a href=&#34;https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recruit restaurant visitor forecasting&lt;/a&gt;. This tutorial is inspired from the winner of this competition which is &lt;a href=&#34;https://www.kaggle.com/headsortails&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heads or Tails&lt;/a&gt;. All respect and thanks for his work and data exploratory and analysis. It could be considered as a lesson for bigger on data analysis using R programming language.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Transactions Analysis</title>
+      <link>https://kmezhoud.netlify.app/project/basket_analysis/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kmezhoud.netlify.app/project/basket_analysis/</guid>
+      <description>&lt;h1 id=&#34;dataset&#34;&gt;Dataset&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;Boost_Business_Rules/market_baskest.csv&#34;&gt;Market Basket file&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;Boost_Business_Rules/transaction.csv&#34;&gt;Transactions file&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;Boost_Business_Rules/transactions_list.csv&#34;&gt;Transactions List file&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The report is subdivided into 4 sections.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kmezhoud.github.io/basket/Boost_Business_Rules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boost Business by Rules&lt;/a&gt;:  This section analyze baskets transactions and uses rules to associate the most purchased items during 2 years.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kmezhoud.github.io/basket/Costumers_behavior/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Costumers Data Analysis&lt;/a&gt;: This section focus on the most important costumers and try to mine knowledge about their behavior and the most purchased items during two years.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kmezhoud.github.io/basket/TABLEAU/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TABLEAU ASSAYS&lt;/a&gt;: This section resumes a simple running R script into R.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://kmezhoud.github.io/basket/Drafting/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Drafting&lt;/a&gt;: This section explore and discover the data set using features from dplyr and ggplot2 packages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
