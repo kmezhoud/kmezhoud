@@ -21,12 +21,12 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 #email: test@example.org
-#phone: 00216 25 909 901
+phone: 00216 25 909 901
 address:
   street: Technopole Sidi Thabet
   city: Ariana
   region: Tunis
-  postcode: '2020'
+  postcode: '2022'
   country: Tunisia
   country_code: TN
 coordinates:
@@ -85,6 +85,11 @@ highlight_languages:
   - mobile
   - pharma
   - Shiny
+  - Shinyproxy
+  - Docker
+  - Digital Ocean
+  - Cloudflare
+  - Auth0
 math: false
 diagram: false
 privacy_pack: false
