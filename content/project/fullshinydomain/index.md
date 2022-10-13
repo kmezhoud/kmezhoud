@@ -8,9 +8,6 @@ tags:
 - Shiny
 - Shinyproxy
 - Docker
-- Digital Ocean
-- Cloudflare
-- Auth0
 image:
   caption: screenshot
   focal_point: Smart

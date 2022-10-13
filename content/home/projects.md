@@ -53,12 +53,6 @@ content:
     tag: Shinyproxy
   - name: Docker
     tag: Docker
-  - name: Cloudflare
-    tag: Cloudflare
-  - name: Auth0
-    tag: Auth0
-  - name: Digital Ocean
-    tag: Digital Ocean
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
