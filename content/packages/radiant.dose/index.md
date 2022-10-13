@@ -29,3 +29,16 @@ url_source: ""
 url_video: ""
 ---
 
+
+radiant.dose is an app that manage Dosimetry and Medical data of workers exposed to ionizing radiation.
+This app has:
+
+* A Security access to edit database from render table
+
+* IP and Session authentication
+
+* Keyring system
+
+Dosimetry tab shows the cumulative dose of workers exposed to ionizing radiation during selected period. 
+We can set the plot parameter from the sidebar.
+
