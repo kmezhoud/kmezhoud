@@ -2,7 +2,6 @@
 abstract: Radiology is an essential technology in medicine and is used for organ diagnosis, radio-tracing and radiotherapy. The risks for the radiobiology workers have not been assessed sufficiently because measuring instruments fail to detect very low doses. This paper presents an investigation on the potential risks for radiobiology workers, due to the occupational exposure to low doses of irradiation. In this respect we used plasma samples from 16 subjects who were supposed to receive very low dose of irradiation in a longer time period. We used chromosomal aberrations, means of oxidative stress measurement and combined proteomics and bioinformatics in order to elucidate risks of such exposure. We found significant chromosome aberrations in lymphocytes and the increase of oxidative stress biomarkers in plasma. In addition, the proteomic analysis shows differentially regulated proteins from which three were verified by ELISA tests. This proteomic analysis picks out some interesting proteins that may belong to biomarkers panel of radiation exposure.
 author_notes:
 - Equal contribution
-- Equal contribution
 authors:
 - admin
 - Amina Sakly
