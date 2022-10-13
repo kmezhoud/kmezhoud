@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Karim Mezhoud # Website name
 baseurl: 'https://kmezhoud.netlify.app/' # Website URL
-copyright: ' copyleft {2022} Karim Mezhoud' # Footer text, e.g. '© {year} Me'
+copyright: '2022 - Karim Mezhoud' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
