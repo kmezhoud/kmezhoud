@@ -1,13 +1,13 @@
 ---
 abstract: " "
-title: R Shiny Dashboard: Tracking, Explore and Visualization evolution of the spread of Corona Virus
+title: R Shiny Dashboard - Tracking, Explore and Visualization evolution of the spread of Corona Virus
 summary: Multi classifications images using Keras and TensorFlow algorithms.
 author_notes:
 - Equal contribution
 authors:
 - admin
 date: "2018-09-01T00:00:00Z"
-doi: ""
+doi: "https://kmezhoud.shinyapps.io/COVID19/"
 featured: false
 image:
   caption:
@@ -26,7 +26,7 @@ url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: "https://kmezhoud.shinyapps.io/COVID19/"
+url_video: ""
 ---
 
 # Shiny Dashbord for Tracking and modeling COVID-19 datasets

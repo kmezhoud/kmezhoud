@@ -8,7 +8,7 @@ author_notes:
 authors:
 - admin
 date: "2018-09-01T00:00:00Z"
-doi: ""
+doi: "https://kmezhoud.shinyapps.io/mobi100c/"
 featured: false
 image:
   caption:
@@ -28,5 +28,5 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
-url_demo: "https://kmezhoud.shinyapps.io/mobi100c/"
+url_demo: ""
 ---
