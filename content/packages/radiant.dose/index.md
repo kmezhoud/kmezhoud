@@ -1,6 +1,6 @@
 ---
 abstract: " "
-title: radiant.dose: [Is a Web App for Medical and Dosimetry data manager
+title: radiant.dose:  A radiant extension for Medical and Dosimetry data manager
 summary: radiant.dose is a browser-based interface for Dosimetry data management, analysis and visualization. The app is based on Shiny framework.
 author_notes:
 - Equal contribution
