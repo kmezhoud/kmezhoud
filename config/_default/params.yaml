@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: native
 font_size: L
 
 # SEO
@@ -56,7 +56,25 @@ contact_links:
   #   link: 'https://discourse.gohugo.io'
 
 # Site header
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
 
+footer:
+  copyright:
+    notice: '© {year} Karim Mezhoud. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+      
 main_menu:
   enable: true
   align: l
@@ -82,14 +100,7 @@ highlight_languages:
   - bash
   - regex
   - markdown
-  - mobile
-  - pharma
-  - Shiny
-  - Shinyproxy
-  - Docker
-  - Digital Ocean
-  - Cloudflare
-  - Auth0
+  
 math: false
 diagram: false
 privacy_pack: false
