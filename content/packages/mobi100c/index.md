@@ -1,8 +1,7 @@
 ---
 abstract: " "
-title: Mobi100c- A mobile App for Business Solution.
-summary: Mobi100c is a web/mobile app with multiple login profiles.
-The Customer login can browse items by categories, and order selected articles. The app displays the orders history and corresponding status (pending, shipping, or shipped). The office login displays in editable table the list of sold items and its information including available stock. The office can add easily update stock, add, or remove items. The app is build to connect to SQLite, MySQL and MMSQL databases.
+title: Mobi100c - A mobile App for Business Solution.
+summary: Mobi100c is a web/mobile app with multiple login profiles. The Customer login can browse items by categories, and order selected articles. The app displays the orders history and corresponding status (pending, shipping, or shipped). The office login displays in editable table the list of sold items and its information including available stock. The office can add easily update stock, add, or remove items. The app is build to connect to SQLite, MySQL and MMSQL databases.
 author_notes:
 - Equal contribution
 authors:
