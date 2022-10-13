@@ -32,8 +32,8 @@ url_video: ""
 
 # A Graphical User Interface for accessing and modeling the Cancer Genomics Data of MSKCC.
 
-[![BuildStatus](http://www.bioconductor.org/shields/build/devel/bioc/canceR.svg?label=bioC)](https://bioconductor.org/checkResults/devel/bioc-LATEST/canceR/)[![Travis-CI Build Status](https://travis-ci.org/kmezhoud/canceR.svg?branch=master)](https://travis-ci.org/kmezhoud/canceR)[![releaseVersion](https://img.shields.io/badge/release%20version-1.6.00-green.svg?style=flat)](https://bioconductor.org/packages/canceR) [![develVersion](https://img.shields.io/badge/devel%20version-1.7.04-green.svg?style=flat)](https://github.com/canceR)
-[![Bioc](http://www.bioconductor.org/shields/years-in-bioc/canceR.svg)](https://www.bioconductor.org/packages/devel/bioc/html/canceR.html#since)
+[![BuildStatus](https://www.bioconductor.org/shields/build/devel/bioc/canceR.svg?label=bioC)](https://bioconductor.org/checkResults/devel/bioc-LATEST/canceR/)[![Travis-CI Build Status](https://travis-ci.org/kmezhoud/canceR.svg?branch=master)](https://travis-ci.org/kmezhoud/canceR)[![releaseVersion](https://img.shields.io/badge/release%20version-1.6.00-green.svg?style=flat)](https://bioconductor.org/packages/canceR) [![develVersion](https://img.shields.io/badge/devel%20version-1.7.04-green.svg?style=flat)](https://github.com/canceR)
+[![Bioc](https://www.bioconductor.org/shields/years-in-bioc/canceR.svg)](https://www.bioconductor.org/packages/devel/bioc/html/canceR.html#since)
 [![total](https://img.shields.io/badge/downloads-1759/total-blue.svg?style=flat)](https://bioconductor.org/packages/stats/bioc/canceR)
 
 

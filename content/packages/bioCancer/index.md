@@ -30,16 +30,16 @@ url_video: ""
 ---
 
 # bioCancer - Interactive Multi-OMICS Cancers Data Visualization and Analysis
-[![releaseVersion](https://img.shields.io/badge/release%20version-1.6.00-green.svg?style=flat)](https://bioconductor.org/packages/bioCancer)[![develVersion](https://img.shields.io/badge/devel%20version-1.7.04-green.svg?style=flat)](https://github.com/bioCancer)[![Bioc](http://www.bioconductor.org/shields/years-in-bioc/bioCancer.svg)](https://www.bioconductor.org/packages/devel/bioc/html/bioCancer.html#since)[![total](https://img.shields.io/badge/downloads-1759/total-blue.svg?style=flat)](https://bioconductor.org/packages/stats/bioc/bioCancer)
+[![releaseVersion](https://img.shields.io/badge/release%20version-1.6.00-green.svg?style=flat)](https://bioconductor.org/packages/bioCancer)[![develVersion](https://img.shields.io/badge/devel%20version-1.7.04-green.svg?style=flat)](https://github.com/bioCancer)[![Bioc](https://www.bioconductor.org/shields/years-in-bioc/bioCancer.svg)](https://www.bioconductor.org/packages/devel/bioc/html/bioCancer.html#since)[![total](https://img.shields.io/badge/downloads-1759/total-blue.svg?style=flat)](https://bioconductor.org/packages/stats/bioc/bioCancer)
 [![rank](https://img.shields.io/badge/rank%20/total-blue.svg?style=flat)](https://bioconductor.org/packages/stats/bioc/bioCancer)
 <!--[![Coverage Status](https://img.shields.io/coveralls/kmezhoud/bioCancer.svg)](https://coveralls.io/r/kmezhoud/bioCancer?branch=master) -->
 `r badge_bioc_download("bioCancer, "total", "blue", "total")`
 
-http://cranlogs.r-pkg.org/badges/stringr
+https://cranlogs.r-pkg.org/badges/stringr
 
 [bioCancer](
-http://kmezhoud.github.io/bioCancer/
-) is a browser-based interface for Cancer Genomics Data analysis and visualization developped by [R](http://www.r-project.org/), and based on the [Shiny](http://www.rstudio.com/shiny/) package.
+https://kmezhoud.github.io/bioCancer/
+) is a browser-based interface for Cancer Genomics Data analysis and visualization developped by [R](https://www.r-project.org/), and based on the [Shiny](https://www.rstudio.com/shiny/) package.
 
 #### Interactivities
 
@@ -53,7 +53,7 @@ bioCancer focuses on Cancer Genomics data visualisation and Genes Classification
 
 <img src="Circomics_demo.gif">
 <!--
-It is inspired from [radiant](https://github.com/vnijs/radiant) developed by <a href="http://rady.ucsd.edu/faculty/directory/nijs/" target="\_blank">Dr. Vincent Nijs</a>. 
+It is inspired from [radiant](https://github.com/vnijs/radiant) developed by <a href="https://rady.ucsd.edu/faculty/directory/nijs/" target="\_blank">Dr. Vincent Nijs</a>. 
 -->
 
 ## Preprocessing and Plotting
@@ -77,7 +77,7 @@ It is inspired from [radiant](https://github.com/vnijs/radiant) developed by <a 
 
 - Explore: Quickly and easily summarize, visualize, and analyze your data
 - Cross-platform: It runs in a browser on Windows, Mac, and Linux
-- Reproducible: Recreate results and share work with others as a state file or an [Rmarkdown](http://rmarkdown.rstudio.com/) report
+- Reproducible: Recreate results and share work with others as a state file or an [Rmarkdown](https://rmarkdown.rstudio.com/) report
 - Programming: Integrate bioCancer's analysis functions into your own R-code
 - Context: Data and examples focus on business applications
 
@@ -87,13 +87,13 @@ It is inspired from [radiant](https://github.com/vnijs/radiant) developed by <a 
 <!--
 #### Reproducible
 
-Simply saving output is not enough. You need the ability to recreate results for the same data and/or when new data become available. Moreover, others may want to review your analysis and results. Save and load the state of the application to continue your work at a later time or on another computer. Share state files with others and create reproducible reports using [Rmarkdown](http://rmarkdown.rstudio.com/). See also the section on `Saving and loading state` below
+Simply saving output is not enough. You need the ability to recreate results for the same data and/or when new data become available. Moreover, others may want to review your analysis and results. Save and load the state of the application to continue your work at a later time or on another computer. Share state files with others and create reproducible reports using [Rmarkdown](https://rmarkdown.rstudio.com/). See also the section on `Saving and loading state` below
 -->
 
 <!--
 #### Programming
 
-Although bioCancer's web-interface can Processing quite a few data and analysis tasks, at times you may prefer to write your own code. bioCancer provides a bridge to programming in R(studio) by exporting the functions used for analysis. For more information about programming, see Radiant [programming](http://vnijs.github.io/radiant/programming.html) page on the documentation site.
+Although bioCancer's web-interface can Processing quite a few data and analysis tasks, at times you may prefer to write your own code. bioCancer provides a bridge to programming in R(studio) by exporting the functions used for analysis. For more information about programming, see Radiant [programming](https://vnijs.github.io/radiant/programming.html) page on the documentation site.
 -->
 
 
@@ -101,9 +101,9 @@ Although bioCancer's web-interface can Processing quite a few data and analysis 
 ## How to install bioCancer
 
 
-- Required: [R](http://cran.rstudio.com/) version 3.2 or later
+- Required: [R](https://cran.rstudio.com/) version 3.2 or later
 - Required: A modern browser (e.g., [Chrome](https://www.google.com/intl/en/chrome/browser/desktop/) or Safari). Internet Explorer (version 11 or higher) should work as well
-- Recommended: [Rstudio](http://www.rstudio.com/products/rstudio/download/)
+- Recommended: [Rstudio](https://www.rstudio.com/products/rstudio/download/)
 
 bioCancer courant release:
 ```r
@@ -141,12 +141,12 @@ numericInput("sm_comp_value", "Comparison value:", state_init('sm_comp_value',sm
 ## Acknowledgment
 
 
-bioCancer is a collaborative work . Processing panel is adapted from [radiant](https://github.com/vnijs/radiant). I would like to thank <a href="http://rady.ucsd.edu/faculty/directory/nijs/" target="\_blank"> Dr. Vincent Nijs</a> for sharing his work for R community.
+bioCancer is a collaborative work . Processing panel is adapted from [radiant](https://github.com/vnijs/radiant). I would like to thank <a href="https://rady.ucsd.edu/faculty/directory/nijs/" target="\_blank"> Dr. Vincent Nijs</a> for sharing his work for R community.
 
 <!--
 ## License
 
-bioCancer is licensed under the <a href="http://www.tldrlegal.com/l/AGPL3" target="\_blank">AGPLv3</a>. The documentation and videos on this site and the bioCancer help files are licensed under the creative commons attribution, non-commercial, share-alike license <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC-NC-SA</a>.
+bioCancer is licensed under the <a href="https://www.tldrlegal.com/l/AGPL3" target="\_blank">AGPLv3</a>. The documentation and videos on this site and the bioCancer help files are licensed under the creative commons attribution, non-commercial, share-alike license <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC-NC-SA</a>.
 
 As a summary, the AGPLv3 license requires, attribution, including copyright and license information in copies of the software, stating changes if the code is modified, and disclosure of all source code.
 
