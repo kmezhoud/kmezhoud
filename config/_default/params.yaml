@@ -34,8 +34,7 @@ coordinates:
   longitude: '10.02867'
 directions: Enter CNSTN and take the stairs to building 3 on Floor 1
 office_hours:
- - 'Monday 10:00 to 15:00'
- - 'Wednesday 10:00 to 11:00'
+ - 'Weekdays 10:00 to 15:00'
 appointment_url: 'https://calendly.com'
 contact_links:
  # - icon: twitter
@@ -66,14 +65,14 @@ contact_links:
 #     show_search: true
 #     highlight_active_link: true
 # 
-# footer:
-#   copyright:
-#     notice: '© {year} Karim Mezhoud. This work is licensed under {license}'
-#     license:
-#       enable: true
-#       allow_derivatives: false
-#       share_alike: true
-#       allow_commercial: false
+footer:
+  copyright:
+    notice: '© {year} Karim Mezhoud. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
       
 main_menu:
   enable: true
@@ -124,7 +123,7 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
