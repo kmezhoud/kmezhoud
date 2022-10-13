@@ -1,7 +1,7 @@
 ---
 abstract: " "
-title: biodiversity Map Tracker.
-summary: .
+title: Biodiversity Map Tracker.
+summary: Visualize and search Animals and plants interactively in Map.
 author_notes:
 - Equal contribution
 authors:
