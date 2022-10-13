@@ -9,6 +9,9 @@ tags:
 - r
 - mobile
 - business
+- Shiny
+- Shinyproxy
+- Docker
 
 
 title: Mobi100c- A mobile App for Business Solution
