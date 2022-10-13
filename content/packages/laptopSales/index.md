@@ -26,6 +26,5 @@ url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
-url_demo: "https://kmezhoud.shinyapps.io/laptopSales/"
+url_video: "https://kmezhoud.shinyapps.io/laptopSales/"
 ---
