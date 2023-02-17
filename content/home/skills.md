@@ -8,7 +8,7 @@ subtitle: null
 feature:
 - description: null
   icon: sysadmin
-  icon_pack: fab
+  icon_pack: fas
   name: System Administration
 - description: null
   icon: "r-project"
@@ -20,7 +20,7 @@ feature:
   name: Training Models
 - description: null
   icon: "chart-line"
-  icon_pack: fab
+  icon_pack: fas
   name: Visualization
 - description: null
   icon: github

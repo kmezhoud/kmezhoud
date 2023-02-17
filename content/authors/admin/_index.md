@@ -22,7 +22,7 @@ highlight_name: false
 interests:
 - Data Storage and design
 - Data Exploration and Analysis
-- Data Vizualisation
+- Data Visualization
 - Computational Linguistics
 - Information Retrieval
 organizations:
