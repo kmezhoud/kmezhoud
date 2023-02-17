@@ -8,7 +8,7 @@ subtitle: null
 feature:
 - description: null
   icon: sysadmin
-  icon_pack: fas
+  icon_pack: custom
   name: System Administration
 - description: null
   icon: "r-project"
