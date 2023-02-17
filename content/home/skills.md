@@ -1,89 +1,61 @@
 ---
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
-
-# This file represents a page section.
-headless: true
-
-active: true
-
-# Order that this section appears on the page.
+title: "Skills"
+headless: yes
+active: yes
 weight: 20
-
-title: Skills
-subtitle:
-
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+widget: featurette
+subtitle: null
 feature:
-- description:
-  icon: SysAdmin
+- description: null
+  icon: sysadmin
   icon_pack: fab
-  name: Sys Admin
-- description:
-  icon: r-project
+  name: System Administration
+- description: null
+  icon: "r-project"
   icon_pack: fab
-  name: Exploration 
-- description:
+  name: Exploration
+- description: null
   icon: python
   icon_pack: fab
   name: Training Models
-- description:
-  icon: chart-line
+- description: null
+  icon: "chart-line"
   icon_pack: fab
   name: Visualization
-- description:
+- description: null
   icon: github
   icon_pack: fab
   name: Sync Code
-- description:
+- description: null
   icon: markdown
   icon_pack: fab
-  name: Auto-reporting
-- description:
+  name: "Auto-reporting"
+- description: null
   icon: shiny
   icon_pack: custom
   name: Dashboards
-- description:
+- description: null
   icon: docker
   icon_pack: fab
   name: Dockerize App
-- description:
+- description: null
   icon: linux
   icon_pack: fab
   name: GNU/Linux
-- description:
+- description: null
   icon: agile
   icon_pack: custom
   name: Agility
-- description:
+- description: null
   icon: tidyverse
-  icon_pack: custom 
+  icon_pack: custom
   name: Wrangling
-- description:
+- description: null
   icon: sparklyr
   icon_pack: custom
   name: Cluster
-- description:
+- description: null
   icon: dbplyr
   icon_pack: custom
   name: Database
-
-  
- 
-# Uncomment to use emoji icons.
-#- icon = ":smile:"
-#  icon_pack = "org-gc"
-#  name = "Emojiness"
-#  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
 ---
