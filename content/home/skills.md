@@ -7,7 +7,7 @@ widget: featurette
 subtitle: null
 feature:
 - description: null
-  icon: sysadmin
+  icon: SysAdmin
   icon_pack: custom
   name: System Administration
 - description: null
