@@ -19,6 +19,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
+  icon: SysAdmin
+  icon_pack: fab
+  name: Sys Admin
+- description:
   icon: r-project
   icon_pack: fab
   name: Exploration 
@@ -28,7 +32,7 @@ feature:
   name: Training Models
 - description:
   icon: chart-line
-  icon_pack: fas
+  icon_pack: fab
   name: Visualization
 - description:
   icon: github

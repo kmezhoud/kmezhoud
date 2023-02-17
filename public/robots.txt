@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://kmezhoud.netlify.app/sitemap.xml
