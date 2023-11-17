@@ -8,11 +8,11 @@ education:
   - course: PhD in Proteomics & Bioinformatics
     institution: Muséum National D'Histoire Naturelle, France
     year: 2007
-  - course: Master in Eco-Toxicology
+  - course: Master in Toxins Biotechnology
     institution: Muséum National d'Histoire Naturelle, Paris
     year: 2003
   - course: Master in Total Quality Management
-    institution: Ecole Nationanl Vétérinare d'Alfort, Paris
+    institution: Ecole Nationanle Vétérinare d'Alfort, Paris
     year: 2002
   - course: Eng Agronomy
     institution: Institut National Agronomique de Tunisie
