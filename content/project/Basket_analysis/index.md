@@ -11,7 +11,7 @@ tags:
 - business
 
 title: Online Transactions Analysis
-url_code: "https://kmezhoud.github.io/Yubsis/Yubsis.html"
+url_code: "https://kmezhoud.github.io/basket/Boost_Business_Rules/"
 url_pdf: ""
 url_slides: ""
 url_video: ""

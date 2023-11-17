@@ -8,8 +8,9 @@ summary: Flood Prediction in Malawi
 tags:
 - eda
 - r
-- forcast
+- forecast
 - image
+- viz
 title: Flood Prediction
 url_code: "https://kmezhoud.github.io/learn_by_example/Flood_prediction_Malawi/Flood_Prediction_Malawi.html"
 url_pdf: ""

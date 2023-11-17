@@ -9,6 +9,7 @@ tags:
 - r
 - dashboard
 - business
+- viz
 
 title: Laptop Sales Dashboard
 url_code: "https://gitlab.com/kmezhoud/dashboards/-/tree/master/laptopSales"

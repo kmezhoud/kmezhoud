@@ -39,8 +39,8 @@ content:
     tag: pharma
   - name: Image
     tag: image
-  - name: Forcast
-    tag: forcast
+  - name: Forecast
+    tag: forecast
   - name: Business
     tag: business
   - name: Dashboard
@@ -53,6 +53,8 @@ content:
     tag: Shinyproxy
   - name: Docker
     tag: Docker
+  - name: Viz
+    tag: viz
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

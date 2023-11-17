@@ -1,5 +1,5 @@
 ---
-date: "2019-02-11T00:00:00Z"
+date: "2023-11-11T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by [kaggle](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
@@ -8,10 +8,12 @@ summary: Customers reservation prediction
 tags:
 - eda
 - r
+- python
 - forcast
 - business
+- viz
 title: Restaurant Forecasting
-url_code: "https://kmezhoud.github.io/learn_by_example/RestaurantEDA/RestaurantEDA.html"
+url_code: "https://kmezhoud.github.io/learn_by_example/RestaurantEDA/Restaurant_visitor.html"
 url_pdf: ""
 url_slides: ""
 url_video: ""
